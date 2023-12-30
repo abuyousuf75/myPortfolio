@@ -121,7 +121,7 @@ $('.counter').counterUp({
 // Type js 
 
 	$(".typed").typed({
-		strings: ["Web Designer","Wordpress Designer","Javascript Devoloper","Full Stack Devoloper"],
+		strings: ["MERN STACK Devoloper","Frontend Developer","Web Designer","Full Stack Developer"],
 		// Optionally use an HTML element to grab strings from (must wrap each string in a <p>)
 		stringsElement: null,
 		// typing speed
